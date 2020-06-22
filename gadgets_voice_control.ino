@@ -1,5 +1,5 @@
-//Viral Science
-// www.youtube.com/c/viralscience
+//Aysal Tech
+// https://play.google.com/store/apps/details?id=dev.bensalcie.portfolio&hl=en
 //Google Assistant Home Automation
 #include <ESP8266WiFi.h>
 #include "Adafruit_MQTT.h"
